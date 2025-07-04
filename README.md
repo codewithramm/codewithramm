@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning *Cybersecurity from Ducat*
 - 🌱 Pursuing *BCA* and aiming for a job in a US MNC 
 - 💡 Exploring tools like Wireshark, Metasploit, Kali Linux
-- 📫 Reach me at *ramkumar161103@gmail.com* (set this up if not already)
+- 📫 Reach me at *ramkumar161103@gmail.com* 
 
 ---
 
